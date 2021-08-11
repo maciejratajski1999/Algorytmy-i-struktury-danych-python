@@ -1,0 +1,10 @@
+digraph prof { ratio = fill;node [style=filled];
+ 0 -> 1 [label="weight: 5"];
+ 0 -> 5 [label="weight: 2"];
+ 1 -> 2 [label="weight: 4"];
+ 2 -> 3 [label="weight: 9"];
+ 3 -> 4 [label="weight: 7"];
+ 3 -> 5 [label="weight: 3"];
+ 4 -> 0 [label="weight: 1"];
+ 5 -> 4 [label="weight: 8"];
+ 5 -> 2 [label="weight: 1"];}

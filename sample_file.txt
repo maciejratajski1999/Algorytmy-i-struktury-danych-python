@@ -1,0 +1,1 @@
+This file exists only to test my character_count function in python project.
